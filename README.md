@@ -1,6 +1,6 @@
 # ArgentoPack
 Sonidos Argentos para conversaciones de Age of Empires II HD (2013)
-"El Se�or Pack" by ChefeIdon
+"El Señor Pack" by ChefeIdon
 
 
 ## Instalacion Windows
@@ -43,4 +43,6 @@ Sonidos Argentos para conversaciones de Age of Empires II HD (2013)
 
 
 
-# No me lo agradezcan a mi, agradezcanselo a mi navaja.
+# No me lo agradezcan a mi, sino a mi navaja.
+
+Este pack de sonidos se distribuyen gratuitamente y sin garantia alguna, usar responsablemente
