@@ -1,0 +1,3 @@
+/home/chefe/.steam/steam/steamapps/common/Age2HD/resources/es/strings/key-value/key-value-strings-utf8.txt
+
+.steam/steam/steamapps/common/Age2HD/resources/es/sound/taunt/
