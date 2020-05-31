@@ -35,9 +35,9 @@ Sonidos Argentos para conversaciones de Age of Empires II HD (2013)
     git clone https://github.com/ChefeIdon/ArgentoPack.git
     cd ArgentoPack
     mv ~/.steam/steam/steamapps/common/Age2HD/resources/es/sound/taunt ~/.steam/steam/steamapps/common/Age2HD/resources/es/sound/taunt_back
-    cp taunt ~/.steam/steam/steamapps/common/Age2HD/resources/es/sound/
-    mv ~/.steam/steam/steamapps/common/Age2HD/resources/es/strings/key-value/key-value-strings-utf8.txt .steam/steam/steamapps/common/Age2HD/resources/es/strings/key-value/key-value-strings-utf8-backup.txt
-    cp key-value-strings-utf8.txt .steam/steam/steamapps/common/Age2HD/resources/es/strings/key-value/
+    cp -r taunt ~/.steam/steam/steamapps/common/Age2HD/resources/es/sound/
+    mv ~/.steam/steam/steamapps/common/Age2HD/resources/es/strings/key-value/key-value-strings-utf8.txt ~/.steam/steam/steamapps/common/Age2HD/resources/es/strings/key-value/key-value-strings-utf8-backup.txt
+    cp key-value/key-value-strings-utf8.txt ~/.steam/steam/steamapps/common/Age2HD/resources/es/strings/key-value/
 
 2- Listo el pollo amigueros.
 
