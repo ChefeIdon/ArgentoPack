@@ -49,85 +49,165 @@ Sonidos Argentos para conversaciones de Age of Empires II HD (2013)
 ## Lista de Audios
 
 01 - Sabe
+
 02 - Haceme un petardo
+
 03 - Carne
+
 04 - No oigo que talen
+
 05 - Puede darme dinero
+
 06 - Yo queria mani
+
 07 - Ahhh
+
 08 - No tenemos escapatoria
+
 09 - Opa
+
 10 - Que olor a leche
+
 11 - Risa Ricky Fort
+
 12 - El Coco esta en la casa
+
 13 - Y vos sos un boludo
+
 14 - Mandale mecha
+
 15 - Sacá la mano de ahi
+
 16 - Callate carajo
+
 17 - Gracias pa
+
 18 - Guachin
+
 19 - Es Putifarri
+
 20 - Tarado eh
+
 21 - Esas cositas lindas
+
 22 - Basta chicos
+
 23 - Miami
+
 24 - La concha de la lora
+
 25 - Excelente
+
 26 - Me persigue la desgracia
+
 27 - Chino no come eso
+
 28 - Mamá
+
 29 - A la puta
+
 30 - Wipu
+
 31 - Hola culiados
+
 32 - Coño
+
 33 - Abuela me haces re mal
+
 34 - No de nuevo
+
 35 - Vamos a hacerlo
+
 36 - Llego el lechero
+
 37 - Tan vulgar
+
 38 - Paga ra prata
+
 39 - Aliado
+
 40 - Neutral
+
 41 - Enemigo
+
 42 - Canción de muerte
+
 43 - Que bien el tipo
+
 44 - Negro garca
+
 45 - Cubilla
+
 46 - A comerla
+
 47 - Me cago en la puta madre
+
 48 - Pedazo de boludo
+
 49 - Se murio
+
 50 - Eeee
+
 51 - Ya van a llegar
+
 52 - Abri pelotudo
+
 53 - Ya es toda wey
+
 54 - Inimputable
+
 55 - Más recondito
+
 56 - Máquina de agujeros
+
 57 - This paquetito
+
 58 - Esta es para vos
+
 59 - No tengo cosa
+
 60 - Fija bien
+
 61 - Rrregar a la gente
+
 62 - Los Yakuza
+
 63 - Pillo pillo
+
 64 - Habla bien
+
 65 - Hola
+
 66 - Me cago quemando
+
 67 - Ud no puede decir eso
+
 68 - Y ella
+
 69 - Gemido
+
 70 - Karina
+
 71 - La vaca
+
 72 - Palabra
+
 73 - Cosme Fulanito
+
 74 - Es y no es
+
 75 - Jalea
+
 76 - Los alemanes
+
 77 - Mi planeta me necesita
+
 78 - Milhouse
+
 79 - Ud es diabólico
+
 80 - Yo no fui
+
 81 - Sobreviviendo
 
 ## Desinstalación
